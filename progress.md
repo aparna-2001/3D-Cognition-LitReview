@@ -24,9 +24,18 @@
 
 ## April 13, 2026
 
-**Task:** Refined reading plan  
+**Task:** Refined reading plan  (from the core paper 'Perception, Cognition, and Action in Hyperspaces') 
 
 **Notes:**
 - Revised the reading order with the addition of new papers  
 
 ---
+
+
+## April 20, 2026
+
+**Task:** started reading core papers
+
+| # | Paper | Author |
+|---|------|--------|
+| 1 | Human comprehension of 4-dimensional rotation |Iris Reed, Kristen Reed | 
